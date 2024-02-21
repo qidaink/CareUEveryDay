@@ -14,17 +14,17 @@ public class Bootstrap {
     /**
      * 公众号AppID
      */
-    public static final String APP_ID = "";
+    public static final String APP_ID = "wx5e6c7853b48ef8eb";
 
     /**
      * 公众号秘钥
      */
-    public static final String SECRET = "";
+    public static final String SECRET = "1ee90a6545c2411406c490863565b4c6";
 
     /**
      * 全局模板ID  也可针对单个Friend指定模板
      */
-    public static final String TEMPLATE_ID = "";
+    public static final String TEMPLATE_ID = "YJ9foPjQdXCpQL7mX9vA-LgDOxqVMEzlmS6wMBVEgtU";
 
     /**
      * 初始化
